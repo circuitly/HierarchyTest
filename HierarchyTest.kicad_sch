@@ -534,7 +534,7 @@
     (property "Reference" "U1" (at 87.6809 31.75 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "4555" (at 87.6809 34.29 0)
+    (property "Value" "4555" (at 87.6809 34.29 0) (show_name)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "" (at 85.725 42.545 0)
