@@ -218,7 +218,7 @@
   (symbol (lib_id "Simulation_SPICE:OPAMP") (at 29.21 79.375 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 0f0b0325-e5c6-4bc0-9648-5be1cacda970)
-    (property "Reference" "U5" (at 32.3341 70.485 0)
+    (property "Reference" "U4" (at 32.3341 70.485 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "${SIM.PARAMS}" (at 32.3341 73.025 0)
@@ -247,7 +247,7 @@
     (instances
       (project "HierarchyTest"
         (path "/dc20b726-2806-4869-81d9-be0d53dc7b3c/f371f224-dc65-4f45-8140-cc26b8de052d"
-          (reference "U5") (unit 1)
+          (reference "U4") (unit 1)
         )
       )
     )
@@ -256,7 +256,7 @@
   (symbol (lib_id "Simulation_SPICE:OPAMP") (at 98.425 36.195 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 50548ca6-3a1e-41a4-957f-4d1a4a24ff14)
-    (property "Reference" "U2" (at 121.285 32.7661 0)
+    (property "Reference" "U6" (at 121.285 32.7661 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "${SIM.PARAMS}" (at 121.285 35.3061 0)
@@ -285,7 +285,7 @@
     (instances
       (project "HierarchyTest"
         (path "/dc20b726-2806-4869-81d9-be0d53dc7b3c/f371f224-dc65-4f45-8140-cc26b8de052d"
-          (reference "U2") (unit 1)
+          (reference "U6") (unit 1)
         )
       )
     )
@@ -294,7 +294,7 @@
   (symbol (lib_id "Simulation_SPICE:OPAMP") (at 70.485 64.135 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid ef8cb714-8c4a-43c1-8a9a-93d4817ccab4)
-    (property "Reference" "U4" (at 73.6091 55.245 0)
+    (property "Reference" "U5" (at 73.6091 55.245 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "${SIM.PARAMS}" (at 73.6091 57.785 0)
@@ -323,7 +323,7 @@
     (instances
       (project "HierarchyTest"
         (path "/dc20b726-2806-4869-81d9-be0d53dc7b3c/f371f224-dc65-4f45-8140-cc26b8de052d"
-          (reference "U4") (unit 1)
+          (reference "U5") (unit 1)
         )
       )
     )

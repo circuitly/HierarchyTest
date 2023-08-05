@@ -172,7 +172,7 @@
   (symbol (lib_id "MCU_Microchip_PIC18:PIC18F13K50-EP") (at 107.95 64.77 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid f52bcb35-887a-4f5b-b418-9199ad30a85d)
-    (property "Reference" "U3" (at 109.9059 43.815 0)
+    (property "Reference" "U7" (at 109.9059 43.815 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "PIC18F13K50-EP" (at 109.9059 46.355 0)
@@ -207,7 +207,10 @@
     (instances
       (project "HierarchyTest"
         (path "/dc20b726-2806-4869-81d9-be0d53dc7b3c/f371f224-dc65-4f45-8140-cc26b8de052d/dab23468-3711-408d-b8e3-d53b514e3ccb"
-          (reference "U3") (unit 1)
+          (reference "U7") (unit 1)
+        )
+        (path "/dc20b726-2806-4869-81d9-be0d53dc7b3c/cd9d97e4-da12-4890-a7ea-d84cc7c95661"
+          (reference "U8") (unit 1)
         )
       )
     )
