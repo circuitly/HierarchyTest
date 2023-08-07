@@ -342,6 +342,26 @@
     [
       "cd9d97e4-da12-4890-a7ea-d84cc7c95661",
       "Acc"
+    ],
+    [
+      "b71bc89d-e7da-4763-abcb-c8f12d7b61c1",
+      "InPins"
+    ],
+    [
+      "2fd7f3ae-9703-440c-be99-f9a6c46a86d5",
+      "OutPins"
+    ],
+    [
+      "843363f1-77d3-4dd9-808a-96bee88026f6",
+      "BidirPins"
+    ],
+    [
+      "f98b9673-ea14-40ad-94e8-91c50d83c874",
+      "TriPins"
+    ],
+    [
+      "e96df9a5-3a46-4d2b-b323-446433676509",
+      "PassivePins"
     ]
   ],
   "text_variables": {}
