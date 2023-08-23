@@ -282,11 +282,11 @@
   )
 
   (text "HIERARCHY IS ANARCHY" (at 54.61 21.59 0)
-    (effects (font (size 1.27 1.27) (color 255 2 174 0.43)) (justify left bottom))
+    (effects (font (size 1.27 1.27) (color 255 21 210 0.43)) (justify left bottom))
     (uuid 608f0e41-6733-4b21-961b-2cc3e09e17f0)
   )
   (text "New" (at 110.4 25.25 0)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (effects (font (size 1.27 1.27) (color 0 255 86 1)) (justify left bottom))
     (uuid f8a627a9-eecc-42bb-b547-251890b87f98)
   )
 
